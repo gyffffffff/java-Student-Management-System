@@ -6,6 +6,7 @@
 1. stu.zip：在idea中编写的所有java代码 (安装插件：MybatisX)
 2. stu_table创建.zip：在Oracle数据库中创建表格的sql语句
 3. vue.zip：在vscode中编写的所有vue框架代码 (前端)
+4. picture.zip：一些学生图片(用机器人图片代替)  
 
 ## 技术栈
 - **前端**: Vue.js
